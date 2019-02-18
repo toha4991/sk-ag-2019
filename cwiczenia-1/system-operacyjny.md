@@ -27,7 +27,5 @@ Schemat sieci
 aby załączyć obrazek 
 
 ```markdown
-![alt schemat](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)![alt schemat](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
-
-![alt schemat](images/my-network-schema.png)
+![alt schemat](https://drive.google.com/file/d/1zob0BcGIFApN0vtCu2MRs-ID9sWooIL3/view?usp=sharing)
 ```
