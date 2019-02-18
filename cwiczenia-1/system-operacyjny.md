@@ -7,7 +7,7 @@ Charakterystyka systemu operacyjnego
 | Charakterystyka | wartość           | komentarzu |
 | ------------- |:-------------:| -----:|
 | nazwa      | linux | centos 7 |
-| program nmcli      | sudo nmcli enp0s3 aby uruchomic kartę sieciową |  |
+| program       | nmcli | sudo nmcli enp0s3 aby uruchomic kartę sieciową |
 
 
 Konfiguracja połączenia sieciowego
