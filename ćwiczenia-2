@@ -1,5 +1,5 @@
 Ustawianie parametrów sieci
----------------------------
+--------------------------
 
 ![alt text][network]
 
@@ -12,8 +12,8 @@ Wejściowe parametry sieci
 | Parametr | wartość | komentarz(opcionalny) |
 | ------------- |:-------------:| -----:|
 |   PC 1 |  
-| IP - address  | | |
-| MASKA  | | |
+| IP - address  | 192.168.2.4 | |
+| MASKA  | 192.168.2.4/24 | |
 |   |  | |
 | PC 2  |  | |
 | IP - address  | | |
