@@ -12,18 +12,18 @@ Wejściowe parametry sieci
 | Parametr | wartość | komentarz(opcionalny) |
 | ------------- |:-------------:| -----:|
 |   PC 1 |  
-| IP - address  | 10.0.15.4 | |
+| IP - address  | 192.168.64.1 | ip addr add 192.168.64.1 dev enp0s3 |
 | MASKA  | /24 (255.255.255.0) | |
 |   |  | |
 | PC 2  |  | |
-| IP - address  | 10.0.15.6 | |
+| IP - address  | 192.168.64.2 | |
 | MASKA  | /24 (255.255.255.0 )| |
 
 Weryfikacja połączenia
 
 Polecenie
-```
-```
+ping 192.168.64.2 na PC1
+ping 192.168.64.1 na PC2
 
 Efekt
 ```
