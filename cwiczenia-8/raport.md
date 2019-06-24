@@ -5,7 +5,7 @@
   - dla 5000 urządzeń 255.255.224.0 czyli /19
   
 2. Ustalenie adresów sieci
-  IP bazowy to 172.22.128.0
+  IP bazowy to 172.22.128.0/17
   - lan1 172.22.128.0/23
   - lan2 172.22.160.0/19
   Lan2 ma adres 172.22.160.0 gdyż pula kolejnych dostępnych adresów przy netmasce /19 zaczyna się właśnie od 160.
