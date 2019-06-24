@@ -24,8 +24,4 @@ Konfiguracja połączenia sieciowego
 Schemat sieci
 -------------
 
-aby załączyć obrazek 
-
-```markdown
 ![](https://drive.google.com/file/d/1zob0BcGIFApN0vtCu2MRs-ID9sWooIL3/view?usp=sharing)
-```
