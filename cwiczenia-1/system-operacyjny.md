@@ -27,5 +27,5 @@ Schemat sieci
 aby załączyć obrazek 
 
 ```markdown
-![alt schemat](https://drive.google.com/file/d/1zob0BcGIFApN0vtCu2MRs-ID9sWooIL3/view?usp=sharing)
+![](https://drive.google.com/file/d/1zob0BcGIFApN0vtCu2MRs-ID9sWooIL3/view?usp=sharing)
 ```
