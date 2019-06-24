@@ -24,4 +24,4 @@ Konfiguracja połączenia sieciowego
 Schemat sieci
 -------------
 
-![](images/schemat_1.png)
+![](https://github.com/toha4991/sk-ag-2019/tree/master/images)
